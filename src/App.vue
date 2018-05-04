@@ -8,6 +8,9 @@
     <HelloWorld/>
 
     我想合并两个分支
+    这是新的master
+    <HelloWorld/>
+    我想成功合并，祝福我吧
   </div>
 </template>
 
