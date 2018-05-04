@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     this is testes
+    你好，这是试验，嘿嘿，如果成功的话太开心了
     <HelloWorld/>
   </div>
 </template>
