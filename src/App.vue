@@ -1,13 +1,8 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    this is testes
-    nihao ,zheshi master分支
-    你好，这是试验，嘿嘿，如果成功的话太开心了
-    希望这次成功
-    你好，这是feature分支
+    重新开始
     <HelloWorld/>
-    what
   </div>
 </template>
 
