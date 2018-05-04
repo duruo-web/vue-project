@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     this is testes
+    nihao ,zheshi master分支
     <HelloWorld/>
   </div>
 </template>
