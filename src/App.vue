@@ -6,6 +6,8 @@
     这是在hebing里提交的分支
     这是新的master
     <HelloWorld/>
+
+    我想合并两个分支
   </div>
 </template>
 
