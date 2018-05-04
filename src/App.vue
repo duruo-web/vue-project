@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     重新开始
     想把master分支的commit合并到另一个分支
+    这是在hebing里提交的分支
     <HelloWorld/>
   </div>
 </template>
